@@ -1,0 +1,13 @@
+{
+  "name": "tor",
+  "version": "1.0.0",
+  "description": "A Template to Host Tor Hidden Services aka Dark Web Sites on Replit. With Node.js as the Server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "github.com/9xN",
+  "license": "AGPL-3.0",
+  "dependencies": {
+  }
+}
